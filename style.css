@@ -1,0 +1,14 @@
+body {
+	background-color: lightblue;
+	font-family: Georgia;
+}
+
+h1 {
+	color: navy;
+	margin-left:20px;
+}
+
+button, select {
+	background-color: lightgrey;
+	border-radius: 4px;
+}
